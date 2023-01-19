@@ -1,0 +1,262 @@
+/* =====================================
+  All page
+===================================== 
+------------------------- */
+body{
+    background-color: #DCDCDC;
+}
+.mt4rem{
+    margin-top: 4rem;
+  }
+  
+.pt4rem{
+    padding-top: 4rem;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.border-bottom{
+    margin: 0 auto;
+    width: 300px;
+    height: .25rem;
+    background-color: #FF0000;
+}
+.border-left{
+    width: 300px;
+    height: .25rem;
+    background-color: #FF0000;
+}
+.bold{
+    font-weight: bold;
+}
+/* =====================================
+  header
+===================================== 
+------------------------- */
+.navbar-nav li{
+    margin-right: 2rem; 
+}
+.navbar-nav a{
+    color: black;
+    text-decoration: none;
+}
+
+/* =====================================
+  front-page
+===================================== 
+------------------------- */
+.hero{
+    text-align: center;
+    color: white;
+    background-image: url('img/blog-hero.jpg');
+    background-color:rgba(0, 0, 0, .8);
+    background-blend-mode:darken;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-bottom: 3rem; 
+    min-height: 80vh;
+}
+
+.hero h1{
+    padding-top: 20%;
+}
+.about,.sites{
+    padding: 2rem;
+}
+.about-contents{
+    display: flex;
+    padding: 2rem;
+}
+.about-img{
+    width: 40%;
+}
+.sns{
+    display: flex;
+    justify-content: center;
+}
+.sns a{
+    color: #FF0000;
+}
+
+.sns li{
+    margin-right: 2rem;
+}
+.service-box{
+    padding: 2.5rem 1.3rem;
+    border-radius: 1rem;
+    margin-bottom: 3rem;
+}
+.ico-circle {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 0 auto;
+    padding-top: 25px;
+    text-align: center;
+    box-shadow: 0 0 0 10px #0078ff;
+    display: block;
+}
+
+.life-text{
+    text-align: left;
+}
+
+.blog-container{
+    padding: 3rem;
+}
+.blog-img img{
+    width: 300px;
+}
+.blog-card h4{
+    padding: .5rem;
+}
+.blog-card a{
+    color: black;
+    text-decoration: none;
+}
+.card-category-box {
+  display: inline-block;
+  top: -16px;
+  background-color: #EEEEEE;;
+  color: black;
+  font-weight: bold;
+  padding: .25rem .5rem;
+}
+.blog-card{
+    display: flex;
+    background-color: #EEEEEE;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.4); 
+    width: auto;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.blog-text{
+    margin-left: 2rem;
+}
+.blog-text .btn{
+    color: white;
+}
+/* =====================================
+  blog-page
+===================================== 
+------------------------- */
+.blog-hero{
+    text-align: center;
+    color: white;
+    background-image: url('img/blog-page-hero.jpg');
+    background-color:rgba(0, 0, 0, .8);
+    background-blend-mode:darken;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-bottom: 3rem; 
+    min-height: 20vh;
+}
+.blog-hero h1{
+    padding-top: 10%;
+}
+.input-group{
+    margin: 2rem auto;
+}
+.blog-page img{
+    width: 400px;
+}
+article img{
+    width: 100%;
+    height: auto;
+}
+
+/* =====================================
+  sidebar
+===================================== 
+------------------------- */
+.widget{
+    padding: 1rem 2rem;
+    background-color: #EEEEEE;
+    margin: 1rem;
+}
+.widget h2{
+    border-bottom: #FF0000 1px solid;
+    margin-bottom: .5rem;
+}
+.widget li{
+    margin-top: 1rem;
+}
+.widget a{
+    color: black;
+    text-decoration: none;
+}
+.widget_categories a,.blog-tag a{
+    background-color: #0078ff;
+    color: white;
+    text-decoration: none;
+    padding: .25rem .5rem;
+    margin-top: 1rem;
+    border-radius: .5rem;
+}
+.post-date{
+    font-size: .8rem;
+}
+/* =====================================
+  footer
+===================================== 
+------------------------- */
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+
+/* =====================================
+  single-page
+===================================== 
+------------------------- */
+
+
+/* =====================================
+  responsive-design
+===================================== 
+------------------------- */
+@media screen and (max-width: 959px) {
+    .hero{
+    min-height: 50vh;
+    }
+    .about-contents{
+        display: flex;
+        flex-direction: column;
+    }
+    .about-img{
+        width: 100%;
+    }
+    .about-text{
+        width: 100%;
+    }
+    .about-text{
+        margin: 1rem auto;
+    }
+    .blog-text{
+        margin-left: 0;
+    }
+    .border-left{
+        margin: 0 auto;
+    }
+    .blog-container{
+        margin: 2rem auto;
+    }
+    .blog-card{
+        flex-direction: column;
+        text-align: center;
+        padding: 1rem;
+        margin: 2rem auto;
+    }
+    
+}

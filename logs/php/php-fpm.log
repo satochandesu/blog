@@ -1,0 +1,150 @@
+[11-Jan-2023 19:47:08] NOTICE: fpm is running, pid 1504
+[11-Jan-2023 19:47:08] NOTICE: ready to handle connections
+[11-Jan-2023 20:32:34] NOTICE: Terminating ...
+[11-Jan-2023 20:32:34] NOTICE: Terminating ...
+[11-Jan-2023 20:32:34] NOTICE: exiting, bye-bye!
+[12-Jan-2023 12:56:37] NOTICE: fpm is running, pid 649
+[12-Jan-2023 12:56:37] NOTICE: ready to handle connections
+[12-Jan-2023 16:35:49] NOTICE: Terminating ...
+[12-Jan-2023 16:35:49] NOTICE: Terminating ...
+[12-Jan-2023 16:35:50] NOTICE: exiting, bye-bye!
+[12-Jan-2023 21:10:17] NOTICE: fpm is running, pid 646
+[12-Jan-2023 21:10:17] NOTICE: ready to handle connections
+[12-Jan-2023 21:16:33] WARNING: [pool www] child 650 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:16:38] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:16:58] WARNING: [pool www] child 650 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:20:36] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:39:10] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:40:59] WARNING: [pool www] child 650 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:41:29] WARNING: [pool www] child 650 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:41:53] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:42:39] WARNING: [pool www] child 650 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:42:42] WARNING: [pool www] child 650 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:42:43] WARNING: [pool www] child 650 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:42:58] WARNING: [pool www] child 650 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:44:14] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:44:30] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:44:43] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:46:43] WARNING: [pool www] child 650 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:47:44] WARNING: [pool www] child 650 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:48:15] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:48:34] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:49:15] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:53:41] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:54:38] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:55:24] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:55:58] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:56:41] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:58:57] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:59:01] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 21:59:55] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 22:00:35] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 22:00:56] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 22:01:59] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 22:02:34] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 22:03:05] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 22:03:49] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 22:04:04] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 22:04:53] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 22:05:13] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 22:06:14] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 22:08:00] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 22:10:07] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 22:10:42] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 22:11:03] WARNING: [pool www] child 652 said into stderr: "sh: 1: full: not found"
+[12-Jan-2023 22:14:03] NOTICE: Terminating ...
+[12-Jan-2023 22:14:03] NOTICE: exiting, bye-bye!
+[13-Jan-2023 13:16:58] NOTICE: fpm is running, pid 650
+[13-Jan-2023 13:16:58] NOTICE: ready to handle connections
+[13-Jan-2023 13:17:58] WARNING: [pool www] child 654 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 13:21:53] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 13:22:14] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 13:22:40] WARNING: [pool www] child 654 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 13:23:03] WARNING: [pool www] child 654 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 13:24:38] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 13:24:58] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 13:26:34] WARNING: [pool www] child 654 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 13:35:02] WARNING: [pool www] child 654 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 13:47:21] WARNING: [pool www] child 654 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 13:59:44] WARNING: [pool www] child 654 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 14:00:37] WARNING: [pool www] child 654 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 14:25:48] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 14:34:07] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 17:49:43] WARNING: [pool www] child 654 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 17:50:33] WARNING: [pool www] child 654 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 17:51:23] WARNING: [pool www] child 654 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 17:51:40] WARNING: [pool www] child 654 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 17:52:07] WARNING: [pool www] child 654 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 17:55:23] WARNING: [pool www] child 654 said into stderr: "sh: 1: full: not found"
+[13-Jan-2023 21:22:53] NOTICE: Terminating ...
+[13-Jan-2023 21:22:53] NOTICE: Terminating ...
+[13-Jan-2023 21:22:53] NOTICE: exiting, bye-bye!
+[14-Jan-2023 21:19:10] NOTICE: fpm is running, pid 384
+[14-Jan-2023 21:19:10] NOTICE: ready to handle connections
+[14-Jan-2023 21:46:08] WARNING: [pool www] child 389 said into stderr: "sh: 1: full: not found"
+[14-Jan-2023 21:46:19] WARNING: [pool www] child 388 said into stderr: "sh: 1: full: not found"
+[14-Jan-2023 21:47:16] WARNING: [pool www] child 388 said into stderr: "sh: 1: full: not found"
+[14-Jan-2023 21:50:04] WARNING: [pool www] child 389 said into stderr: "sh: 1: full: not found"
+[14-Jan-2023 21:52:00] WARNING: [pool www] child 389 said into stderr: "sh: 1: full: not found"
+[14-Jan-2023 21:52:22] WARNING: [pool www] child 388 said into stderr: "sh: 1: full: not found"
+[14-Jan-2023 21:53:32] WARNING: [pool www] child 389 said into stderr: "sh: 1: full: not found"
+[14-Jan-2023 21:53:59] WARNING: [pool www] child 389 said into stderr: "sh: 1: full: not found"
+[14-Jan-2023 21:54:29] NOTICE: Terminating ...
+[14-Jan-2023 21:54:29] NOTICE: Terminating ...
+[14-Jan-2023 21:54:29] NOTICE: exiting, bye-bye!
+[15-Jan-2023 09:47:46] NOTICE: fpm is running, pid 650
+[15-Jan-2023 09:47:46] NOTICE: ready to handle connections
+[15-Jan-2023 10:23:49] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 10:32:03] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 10:37:24] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:00:50] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:01:06] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:01:09] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:02:36] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:02:56] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:04:03] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:10:34] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:11:15] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:11:19] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:31:20] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:31:39] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:32:24] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:32:40] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:32:54] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:33:43] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:36:17] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:36:32] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:38:24] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:39:22] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:39:31] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:40:47] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:42:09] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:42:34] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:43:05] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:44:29] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:46:05] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:46:28] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:47:32] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:47:46] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:48:02] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:48:11] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:48:16] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:48:21] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:49:41] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:54:44] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:55:49] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:56:36] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 11:57:17] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 12:07:19] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 12:09:03] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 21:56:07] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 21:56:14] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 21:56:18] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 22:11:24] WARNING: [pool www] child 655 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 22:11:34] WARNING: [pool www] child 656 said into stderr: "sh: 1: full: not found"
+[15-Jan-2023 22:14:38] NOTICE: Terminating ...
+[15-Jan-2023 22:14:38] NOTICE: Terminating ...
+[15-Jan-2023 22:14:38] NOTICE: exiting, bye-bye!
+[19-Jan-2023 11:07:53] NOTICE: fpm is running, pid 1455
+[19-Jan-2023 11:07:53] NOTICE: ready to handle connections
+[19-Jan-2023 11:11:36] WARNING: [pool www] child 1461 said into stderr: "sh: 1: full: not found"

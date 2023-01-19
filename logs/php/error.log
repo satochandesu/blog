@@ -1,0 +1,8 @@
+[11-Jan-2023 11:27:25 UTC] PHP Warning:  Attempt to read property "title" on null in /home/satonssu1/Local Sites/homepage/app/public/wp-includes/class-wp-customize-widgets.php on line 900
+[12-Jan-2023 07:07:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_searchform() in /home/satonssu1/Local Sites/homepage/app/public/wp-content/themes/mytheme/index.php:5
+Stack trace:
+#0 /home/satonssu1/Local Sites/homepage/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/satonssu1/Local Sites/homepage/app/public/wp-blog-header.php(19): require_once('/home/satonssu1...')
+#2 /home/satonssu1/Local Sites/homepage/app/public/index.php(17): require('/home/satonssu1...')
+#3 {main}
+  thrown in /home/satonssu1/Local Sites/homepage/app/public/wp-content/themes/mytheme/index.php on line 5
